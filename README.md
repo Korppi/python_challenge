@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+My solutions to python challenge problems. I am using dart language for these problems.
+
+http://www.pythonchallenge.com/
